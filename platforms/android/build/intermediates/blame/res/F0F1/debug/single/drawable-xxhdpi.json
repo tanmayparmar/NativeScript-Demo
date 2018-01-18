@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Demo\\demoApp\\demoApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\background.png",
+        "source": "D:\\Demo\\demoApp\\demoApp\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Demo\\demoApp\\demoApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\Demo\\demoApp\\demoApp\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Demo\\demoApp\\demoApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "D:\\Demo\\demoApp\\demoApp\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    }
+]

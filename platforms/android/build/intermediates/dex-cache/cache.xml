@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.3.1_f3d657f7d99ae3f18bf6bb394513d623144cd956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-analytics-impl-10.2.6_2ec5b57aa18b8a0e4c5bfe6c85f3e838fa317e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-auth-10.2.6_1822980f58e8c68d9fe863d3b6eacbc86c7992d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-tasks-10.2.6_6f976771c08c9cc58ccd9821f4a7d21170113428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-storage-10.2.6_c29d1f325d590b469a1c1d0d8a471e05db31f29d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-iid-10.2.6_cc6b58e8af5b18590088dcebcfa822ec93b233ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-database-10.2.6_3fca3881c632f510aa05c94f8e41ea84608c3c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.3.1_f7968256f4dccd9c6b7de66bf9abcb3a90dd294e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.3.1_e3186410389132aa133fb8dc35b235bb6d833291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\firebase-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9516c20ad330d844b3275d9c3acb0b798b6d8ae">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-firebase-release_6440126b64a3cced2ef0c24bc2bcdd8ae9fed352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.3.1_1f4f980b82f7d5bcbc9716d3f70acc9c77bfe483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\demoApp\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_83cdc09bb8bf6ddbfdcf460d026852a1e4b0f3cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.3.1_ac3a4ee26c0bd941c525b176f252069ff0026f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\gson-2.8.1_5132c08a834533fc67cf64d0b53b3a894b802199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-basement-10.2.6_e072a6c5940072271fd487957bec9e9933dee5ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.3.1_fe5a01de80f51e82cfd1726d9c3b3a8e08721db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-ads-10.2.6_40e23cd8c6206fd57e53841436736a19323964b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-analytics-10.2.6_03c74c9d4ba4f3d4c57119c3a7f1a9370667911a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.3.1_3447261b8ee2cd4659ebcd36214add56efc74dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.3.1_537190edf4b9475e738358596c4d95e3199f7102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.3.1_5abddc4427a1d495e7a5d6d016f6e49208370bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.3.1_c7b44c9706e2e996593cb54df0e29028ae21ecab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-common-10.2.6_927fcc11832d14521e4e2a6c71b2c0f845f32f3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\demoApp\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e45d63bd91f9a51a9e6f9c96be7a01deb415690">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\demoApp-runtime-unspecified_b522a1854bd2f6d038ee5b995ee8b66a0505f408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-clearcut-10.2.6_67c10130b26513f1bbc00730b10fdb19a670ed10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-gass-10.2.6_4f4170cc871e33cd70b8b01e70f50d917ec4fd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.3.1_c38693f2f3fb03b557a0c59c05114974bafa8263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.3.1_82b362f48957f42ef8e5908add82345f84b9eab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-base-10.2.6_24503691e6d33ee2c6e40a51bfc9e1311c79a15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-ads-lite-10.2.6_8eb14c89f2a1231e9ae8370bdd030758ed42e420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.3.1_a680a981fc3f4e21394bf78bb5094589e3c2b9a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_661fb0c951b7a863ce0f0330da78cb9fcba198e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-database-connection-10.2.6_76cc2ebe6e1867add58f0b0712b80d16137ebfaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-crash-10.2.6_40061ab132fccf18b0eb0ce593b7c439d52aa975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="D:\Demo\demoApp\demoApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-storage-common-10.2.6_e2a5bd532592ff595bac7d3cc4ebfd78cd66089e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+D:\Demo\demoApp\demoApp\platforms\android\src\main\assets\app\components\mwlist.component.js
+D:\Demo\demoApp\demoApp\platforms\android\src\main\assets\app\services\firebase.service.js
